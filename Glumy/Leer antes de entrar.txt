@@ -1,0 +1,5 @@
+Esta web esta armada con bootstrap y editada a gusto mio. La galeria fue modificada a mi gusto y la estetica tambien.
+No esta terminada la galeria, cuando queres abrir una foto no esta correctamente posicionada la foto.
+ El sistema de contact me tampoco esta funcionando.
+
+El proyecto fue abandonado.
